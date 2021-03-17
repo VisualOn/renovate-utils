@@ -1,4 +1,4 @@
-FROM renovate/buildpack:4@sha256:fdeb1049fbce5cf7ff3c340546bab022beddccc6e694309a48f9b6a9c5f1e116
+FROM renovate/buildpack:4@sha256:bc40fb3708fb004ecd8b3a4f9a91ecb790d84e26da0a50c5a003ee3b494cd64e
 
 
 LABEL maintainer="Michael Kriese <michael.kriese@visualon.de>" \
